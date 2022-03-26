@@ -9,6 +9,10 @@ body {
     display: flex;
 }
 
+p {
+    margin-bottom: 15px;
+}
+
 .iconesMenu {
     margin: 10px;
     text-decoration: none;
@@ -70,4 +74,8 @@ body {
 
 .marginBottom-50px {
     margin-bottom: 50px;
+}
+
+.fontSize-35px {
+    font-size: 35px;
 }
