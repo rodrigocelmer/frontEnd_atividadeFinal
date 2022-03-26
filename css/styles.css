@@ -26,8 +26,8 @@ body {
 }
 
 .indexMenu {
-    height: 1000px;
-    width: 300px;
+    height: 100vh;
+    width: 25vmax;
     background-color: darkolivegreen;
     display: flex;
     flex-direction: column;
@@ -36,9 +36,9 @@ body {
 }
 
 .indexInfo {
-    height: 950px;
-    width: 1000px;
-    padding: 25px;
+    height: 100vh;
+    width: 75vmax;
+    padding-left: 25px;
     background-color: oldlace;
     display: flex;
     flex-direction: column;
