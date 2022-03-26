@@ -13,6 +13,14 @@ p {
     margin-bottom: 15px;
 }
 
+ol, ul {
+    padding-left: 25px;    
+}
+
+li {
+    font-size: 35px;
+}
+
 .iconesMenu {
     margin: 10px;
     text-decoration: none;
