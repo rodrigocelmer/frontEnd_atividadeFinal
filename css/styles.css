@@ -52,18 +52,11 @@ body {
     font-weight: bold;
 }
 
-.indexEndereco {
-    color: lightslategray;
-}
-
-.indexEmail {
-    margin-bottom: 50px;
+.colorLightSlateGray {
     color: lightslategray;
 }
 
 .indexDescricao {
-    color: lightslategray;
-    margin-bottom: 50px;
     font-size: 20px;
 }
 
@@ -73,4 +66,8 @@ body {
 
 .iconesRedes {
     margin-right: 10px;
+}
+
+.marginBottom-50px {
+    margin-bottom: 50px;
 }
