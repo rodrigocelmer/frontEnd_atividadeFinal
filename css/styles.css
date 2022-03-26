@@ -56,6 +56,14 @@ p {
     font-weight: bold;
 }
 
+.mailto {
+    text-decoration: none;
+}
+
+.emailIcon {
+    width: 20px;
+}
+
 .colorLightSlateGray {
     color: lightslategray;
 }
