@@ -25,7 +25,7 @@ body {
     margin: 10px;
 }
 
-.indexMenu {
+.menuStyle {
     height: 100vh;
     width: 25vmax;
     background-color: darkolivegreen;
@@ -35,7 +35,7 @@ body {
     align-items: center;
 }
 
-.indexInfo {
+.infoStyle {
     height: 100vh;
     width: 75vmax;
     padding-left: 25px;
